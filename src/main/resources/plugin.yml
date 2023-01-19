@@ -4,3 +4,7 @@ main: hororo.saehyeon.script.main.HororoScript
 api-version: 1.17
 authors: [ Saehyeon ]
 description: HORORO 마인크래프트 프로젝트 전용 자막 출력 플러그인입니다.
+softdepend:
+  - PlayerNPC
+commands:
+  hororo-script:
